@@ -1,5 +1,13 @@
 # Honours Demo
 
+<div>
+
+[![](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PlantEcologi/honsdemo/HEAD)
+
+Binder
+
+</div>
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a
